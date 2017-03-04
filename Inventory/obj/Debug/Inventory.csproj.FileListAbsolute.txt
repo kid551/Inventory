@@ -1,0 +1,11 @@
+E:\MyProjects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+E:\MyProjects\Inventory\Inventory\bin\Debug\Inventory.exe
+E:\MyProjects\Inventory\Inventory\bin\Debug\Inventory.pdb
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.PLL.Login.resources
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.exe
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.pdb
+E:\MyProjects\Inventory\Inventory\bin\Debug\MySql.Data.dll
+E:\MyProjects\Inventory\Inventory\bin\Debug\MySql.Data.xml
