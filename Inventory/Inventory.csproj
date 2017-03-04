@@ -50,6 +50,12 @@
     <Compile Include="BLL\ProfileBLL.cs" />
     <Compile Include="DAL\Connection.cs" />
     <Compile Include="DAL\ProfileDAL.cs" />
+    <Compile Include="PLL\Home\HomeInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLL\Home\HomeInventory.Designer.cs">
+      <DependentUpon>HomeInventory.cs</DependentUpon>
+    </Compile>
     <Compile Include="PLL\Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +64,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PLL\Home\HomeInventory.resx">
+      <DependentUpon>HomeInventory.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="PLL\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>

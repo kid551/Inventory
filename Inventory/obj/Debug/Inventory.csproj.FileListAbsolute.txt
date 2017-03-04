@@ -9,3 +9,4 @@ E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.exe
 E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.pdb
 E:\MyProjects\Inventory\Inventory\bin\Debug\MySql.Data.dll
 E:\MyProjects\Inventory\Inventory\bin\Debug\MySql.Data.xml
+E:\MyProjects\Inventory\Inventory\obj\Debug\Inventory.PLL.Home.HomeInventory.resources
